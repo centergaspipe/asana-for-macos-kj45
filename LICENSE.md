@@ -1,4 +1,4 @@
-
+Enhance Asana for macOS with Asana for macOS rare Plugin: voice notes & custom shortcuts, the #1 plugin. Includes voice notes and custom shortcuts for a smoother experience.
 
 
 
